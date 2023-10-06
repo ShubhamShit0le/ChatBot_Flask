@@ -1,0 +1,31 @@
+Introduction to SkyCiv
+How to get instant access to powerful, easy-to-use structural engineering software
+SkyCiv offers a range of cloud-based structural analysis and design software completely operable from a web browser, available on affordable monthly and yearly subscriptions.
+
+What software does SkyCiv offer?
+SkyCiv offers a range of Structural Analysis and Design software that is available 100% through your web browser. For a full list, visit our structural software page.
+
+Analysis
+SkyCiv Beam: Powerful beam analysis software to calculate reactions, bending moment, shear force, deflection, stresses. Also fully integrated with steel, concrete, and wood member design software (shown below).
+
+SkyCiv Structural 3D (S3D): Fully-featured 3D structural analysis software. Analysis features include: modeling/graphics, reactions, bending, shear, torsion, deflection, stresses, plate analysis, linear/non-linear (p-delta), buckling, cable analysis, dynamic frequency, response spectrum analysis, 3D rendering, reporting, load combinations, and much more… Design features include: integrated load combinations, steel member design, connection design, reinforced concrete design, foundations, and wind loading capabilities.
+
+SkyCiv Section Builder: Fully integrated with SkyCiv Beam and S3D. Powerful section analysis software calculates section properties using FEA, including area, centroid, the moment of inertia, section modulus, and much more. Integrated database from US, Australia, Canada, Europe, UK, and more, custom shapes, built-up shapes, and operations. Includes General Section Designer for reinforced concrete design.
+
+Design
+Steel Member Design: Supports AISC 360, AISI, CSA S-16, AS 4100, AS 4600 EN 3, and BS 5950 – available as standalone and integrated with SkyCiv Beam and S3D.
+
+Wood Member Design: Supports NDS 2018 and AS 1720 – available as standalone and integrated with SkyCiv Beam and S3D.
+
+Reinforced Concrete Design: Supports ACI 318, Eurocode 2, and AS 3600 design for beams and columns – available as standalone and integrated with SkyCiv Beam and S3D.
+
+Steel Connection Design: Steel Connection Design as per AISC 360-10 ASD and LRFD – available as standalone and integrated with S3D.
+
+Foundation Design: Design software for isolated footings, combined footings, and piles for ACI 318, Eurocode 2, and AS 3600 (2009 and 2018) – available as standalone and integrated with S3D.
+
+Wind Loading: Easy calculation of wind speeds and wind pressures for ASCE 7-10, AS 1170, and Eurocode 1 – available as standalone and integrated with S3D.
+
+How Do I Get Access?
+SkyCiv software can be accessed directly through the web browser (recommend Chrome and Firefox) by logging into your SkyCiv Account. There is nothing to install or download, simply log in and you’ll have all the software available. You can sign up for a free SkyCiv account from our free signup page.
+
+There are certain features blocked in the free account, but you can get access to all the functionality under one of our paid subscriptions via credit card.

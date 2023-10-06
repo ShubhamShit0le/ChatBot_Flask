@@ -1,0 +1,48 @@
+Account Levels
+A guide on the different types of accounts and their suitability
+SkyCiv offers a range of accounts based on your needs – between free usage to enterprise accounts, and everywhere in-between, making Structural Engineering software more accessible than ever before. This range of accounts will cover all of your structural engineering software needs and can be signed up with contract pricing, or month-to-month.
+
+Free Account
+The SkyCiv Free Account has limitations on software functionality, structure size, file storage and is generally suited to students and engineers testing out or briefly using the platform. The software gives you a preview of the full capabilities of our modules, while still providing some value and usage. The Free Account can be upgraded to any of our paid plans at any time. Paid subscriptions are demoted to free accounts when they are canceled.
+
+Level of Support
+Limited to technical support and account access issues.
+
+Student Account
+Students can now access powerful analysis software for their studies under a deeply discounted Student subscription. This account is offered as both Flexible (cancel at any time) or under a contract (6 months) to use throughout their semester. Students receive access to the following software:
+
+Full-featured analysis: SkyCiv Beam, S3D, Section Builder
+Standalone Design Software: Both integrated and standalone connection, foundation, reinforced concrete, wind, and member design software with the above design standards
+Student Activation
+Student Accounts require activation via a student email address with a registered university. After subscribing and logging in for the first time, the platform will prompt you to verify your student email. If your email domain is not registered please email us with either (1) a copy of your active student ID or (2) send an email from your student email and our friendly SkyCiv support team will manually activate your account.
+
+Educational Use Only
+The student software cannot be used for commercial purposes. This is considered a breach of use and can result in the immediate cancellation of your account. The software and reports are also watermarked with not for commercial use.
+
+Level of Support
+Limited to technical support and account access issues.
+
+Basic Account
+This account is suited for short-term projects. SkyCiv Basic provides access to the following software:
+
+Full-featured analysis: SkyCiv Beam, S3D, Section Builder
+Standalone Design Software: Both integrated and standalone connection, foundation, reinforced concrete, wind, and member design software with the above design standards
+Files are listed as public (which show up on Public User Folder) so are not suitable for any commercial projects that require a level of confidentiality. The file storage limit of 10 files also means it is not suitable for ongoing usage.
+
+Level of Support
+Limited to technical support, account access issues, general software questions.
+
+Professional Account
+SkyCiv Professional is our fully functional account with full access to all the following software:
+
+Full-featured analysis: SkyCiv Beam, S3D, Section Builder (including section designer)
+Integrated Design modules: AISC 360, NDS, AISI, AS 3600, AS 4100, AS 4600, AS1720, EN1, EN2, EN3, CSA S16
+Standalone Design Software: Both integrated and standalone connection, foundation, reinforced concrete, wind, and member design software with the above design standards
+The following account limitations are also unlocked:
+
+Custom logo on reports
+Files are private
+Unlimited file storage
+Engineering Support
+Level of Support
+Engineering Support – includes assistance via live chat, video calls, and model support (1 hour per month).what
